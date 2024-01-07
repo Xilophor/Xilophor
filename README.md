@@ -1,5 +1,6 @@
 [![Xilophor's GitHub stats](https://github-readme-stats.vercel.app/api?username=xilophor&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xilophor&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Xilophor's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=xilophor)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Xilophor/Xilophor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
