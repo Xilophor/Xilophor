@@ -1,9 +1,9 @@
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=xilophor&show_icons=true&theme=dracula&card_width=500" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=xilophor&show_icons=true&theme=dracula" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=xilophor&theme=dracula&card_width=500" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=xilophor&theme=dracula&layout=compact" />
 </a>
 <!--
 **Xilophor/Xilophor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
