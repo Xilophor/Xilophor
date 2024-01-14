@@ -1,4 +1,5 @@
-![Xilophor's Github Stats](https://github-readme-stats.vercel.app/api?username=xilophor&show_icons=true&theme=dracula&card_width=644)
+![Xilophor's Github Stats](https://github-readme-stats.vercel.app/api?username=xilophor&show_icons=true&theme=dracula&card_width=495)
+
 ![Xilophor's Top Langs](https://github-readme-stats.vercel.app/api/wakatime?username=xilophor&theme=dracula&layout=normal)
 <!--
 **Xilophor/Xilophor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
